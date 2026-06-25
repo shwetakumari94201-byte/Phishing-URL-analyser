@@ -1,0 +1,12 @@
+# phishing URL Analyser
+A Python-based Cyber security tool to detect phishing URL using the VirusTotal API.
+
+# Features & Skills
+* **Threat intelligence** Real time URL scanning via VirusTotal API.
+*  **Automation** Automated security analysis of suspicious links.
+*  **Tech stack** python3, 'requests' library, json parsing.
+
+# how to use
+1. Install dependency : 'pip intall requests'
+2. Run the script : ' python URLanalyser.py'
+3. Enter any URL to get the security report.
