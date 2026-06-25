@@ -3,6 +3,7 @@ A Python-based Cyber security tool to detect phishing URL using the VirusTotal A
 
 # Features & Skills
 * **Threat intelligence** Real time URL scanning via VirusTotal API.
+* **Development Environment** Devloped and tested Visual Studio code(VS code).
 *  **Automation** Automated security analysis of suspicious links.
 *  **Tech stack** python3, 'requests' library, json parsing.
 
